@@ -14,6 +14,7 @@ aggiungere jest al progetto angular
     "setupFilesAfterEnv": [
       "<rootDir>/setupJest.ts"
     ],
+    "globalSetup": "jest-preset-angular/global-setup",
     "testPathIgnorePatterns": [
       "<rootDir>/node_modules/",
       "<rootDir>/dist/",
