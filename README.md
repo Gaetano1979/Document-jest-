@@ -1,2 +1,2 @@
 # Document-jest-
-aggiungere jest al progetto angulat
+aggiungere jest al progetto angular
